@@ -1,6 +1,0 @@
-User-agent: *
- Disallow: /system/
- Disallow: /modules/
- Disallow: /cgi-bin/
- Disallow: /application/
- Disallow: /public/
